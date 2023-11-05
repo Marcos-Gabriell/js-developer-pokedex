@@ -1,3 +1,10 @@
 # Trilha JS Developer - Pokedex
 
-Estudos na  de JS, HTML e CSS
+
+
+
+
+
+
+
+Estudos na DIO  de JS, HTML e CSS
